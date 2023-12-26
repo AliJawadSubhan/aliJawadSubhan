@@ -1,4 +1,4 @@
-👋 Hi, I’m @AlijawadSubhan \n
+👋 Hi, I’m @AlijawadSubhan 
 👀 I’m interested in Application Development
 🌱 I am a Flutter developer. :3
 📫 Here is my portfolio! 
