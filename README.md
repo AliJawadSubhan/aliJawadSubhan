@@ -21,3 +21,5 @@ Here are some of my key projects. Each comes with a video or image preview to gi
 - Gmail: [jawadsubhan7@gmail.com](mailto:jawadsubhan7@gmail.com)
 - LinkedIn: [Ali Jawad Subhan](https://www.linkedin.com/in/ali-jawad-subhan-635570221/)
 - Stack Overflow: [Ali Jawad](https://stackoverflow.com/users/20531439/ali-jawad)
+
+![](https://komarev.com/ghpvc/?username=AliJawadSubhan&label=PROFILE+VIEWS)
