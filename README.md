@@ -8,13 +8,15 @@
 Here are some of my key projects. Each comes with a video or image preview to give you a quick look at what I've built:
 
 1. [Multiplayer Quiz App](https://github.com/AliJawadSubhan/simp_quiz_app) - An online quiz app using bloc and firebase.
-2. [Gemini Fullstack App (AI Companion)](https://github.com/AliJawadSubhan/gemini_fullstackapp) - An AI companion app with fullstack capabilities.
-3. [Memoriser Game App](https://github.com/AliJawadSubhan/memoriser-game-app) - A fun game to test your memory.
-4. [Survey Application](https://github.com/AliJawadSubhan/Survery_Stacked) - A survey app leveraging stacked state management.
-5. [Instant Payment UI](https://github.com/AliJawadSubhan/Instant-Payment-UI) - An app designed for instant payments (UI).
-6. [Chat App](https://github.com/AliJawadSubhan/Chat-APP) - A real-time chat application using ifrebase.
-7. [Anime Tracker](https://github.com/AliJawadSubhan/Anime_tracker) - Find out which anime an image is from.
-8. [E-commerce Provider](https://github.com/AliJawadSubhan/e-commerce-provider) - A comprehensive e-commerce application using provider and firebase..
+2. [Employee Managment system](https://github.com/AliJawadSubhan/employee_management_system) - A UI which brings a nice concept to employee managment system
+3. [Gemini Fullstack App (AI Companion)](https://github.com/AliJawadSubhan/gemini_fullstackapp) - An AI companion app with fullstack capabilities.
+4. [Memoriser Game App](https://github.com/AliJawadSubhan/memoriser-game-app) - A fun game to test your memory.
+5. [Survey Application](https://github.com/AliJawadSubhan/Survery_Stacked) - A survey app leveraging stacked state management.
+6. [Instant Payment UI](https://github.com/AliJawadSubhan/Instant-Payment-UI) - An app designed for instant payments (UI).
+7. [Chat App](https://github.com/AliJawadSubhan/Chat-APP) - A real-time chat application using ifrebase.
+8. [Anime Tracker](https://github.com/AliJawadSubhan/Anime_tracker) - Find out which anime an image is from.
+9. [E-commerce Provider](https://github.com/AliJawadSubhan/e-commerce-provider) - A comprehensive e-commerce application using provider and firebase.
+
 
 ### Connect with Me
 
