@@ -1,6 +1,7 @@
 👋 Hi, I’m @AlijawadSubhan  
 👀 I’m interested in Application Development  
-🌱 I am a Flutter developer. :3  
+🌱 I am a Flutter developer. :3 
+💻 Experienced Developer at Dotclick. 
 📫 Check out my portfolio! [Here](https://drive.google.com/drive/folders/1gboVHNnjLX0cYZCZ6V3sXjYqu9ysWHsA?usp=sharing)  
 
 ### Core Projects
