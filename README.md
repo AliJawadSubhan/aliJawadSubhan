@@ -10,7 +10,7 @@
 
 ### Core Projects
 
-Here are some of my key projects. Each comes with a video or image preview to give you a quick look at what I've built:
+Here are some of my Persnoal Projects that dislpay the hint of what I can build.
 
 1. [Multiplayer Quiz App](https://github.com/AliJawadSubhan/simp_quiz_app) - An online quiz app using bloc and firebase.
 2. [Employee Managment system](https://github.com/AliJawadSubhan/employee_management_system) - A UI which brings a nice concept to employee managment system
