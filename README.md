@@ -8,7 +8,7 @@
 
 📫 Check out my portfolio! [Here](https://drive.google.com/drive/folders/1gboVHNnjLX0cYZCZ6V3sXjYqu9ysWHsA?usp=sharing)  
 
-### Personal Core Projects
+### Personal Core Projects ( Includes Images! ) 
 
 Here are some of my Persnoal Projects that dislpay the hint of what I can build.
 
