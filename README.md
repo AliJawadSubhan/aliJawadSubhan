@@ -6,7 +6,7 @@
 
 💻 Experienced Developer at Dotclick. 
 
-### Check out my Protfolio Projects Here! ( Includes Images! ) 
+### Check out my Persnoal Protfolio Projects Here! ( Includes Images! ) 
 
 Here are some of my Persnoal Projects that dislpay the hint of what I can build.
 
