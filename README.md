@@ -28,3 +28,5 @@ Here are some of my Persnoal Projects that dislpay the hint of what I can build.
 - Stack Overflow: [Ali Jawad](https://stackoverflow.com/users/20531439/ali-jawad)
 
 ![](https://komarev.com/ghpvc/?username=AliJawadSubhan&label=PROFILE+VIEWS)
+
+Hopefully you noticed the typo.
