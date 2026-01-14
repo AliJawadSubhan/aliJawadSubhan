@@ -8,7 +8,7 @@
 
 ### Check out my Persnoal Protfolio Projects Here! ( Includes Images! ) 
 
-Here are some of my Persnoal Projects that dislpay the hint of what I can build.
+Here are some of my Personal Projects that dislpay the hint of what I can build.
 
 1. [Multiplayer Quiz App](https://github.com/AliJawadSubhan/simp_quiz_app) - An online quiz app using bloc and firebase.
 2. [Employee Managment system](https://github.com/AliJawadSubhan/employee_management_system) - A UI which brings a nice concept to employee managment system
